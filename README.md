@@ -32,4 +32,7 @@ Prof. Nitin Varshney
 
 ## Status
 
-Project Initiated
+## Project Status
+
+Currently in research and development phase.
+Implementation, datasets, and research documentation will be uploaded as the project progresses.
